@@ -27,3 +27,8 @@ IMPORTANT CONCEPTS USED -
 .JobScheduler (FirebaseJobScheduler) 
 .Responsive Design 
 .Material Design Guidelines 
+
+Screenshots-
+https://github.com/kraftholo/SunshineWeatherApp/blob/master/MainPage.jpeg
+https://github.com/kraftholo/SunshineWeatherApp/blob/master/Details.jpeg
+https://github.com/kraftholo/SunshineWeatherApp/blob/master/Settings.jpeg
